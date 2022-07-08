@@ -1,0 +1,7 @@
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Projects\RestaurantFromTable\obj\Debug\net6.0-windows\RestaurantFromTable.csproj.AssemblyReference.cache
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Projects\RestaurantFromTable\obj\Debug\net6.0-windows\RestaurantFromTable.Form1.resources
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Projects\RestaurantFromTable\obj\Debug\net6.0-windows\RestaurantFromTable.csproj.GenerateResource.cache
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Projects\RestaurantFromTable\obj\Debug\net6.0-windows\RestaurantFromTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Projects\RestaurantFromTable\obj\Debug\net6.0-windows\RestaurantFromTable.AssemblyInfoInputs.cache
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Projects\RestaurantFromTable\obj\Debug\net6.0-windows\RestaurantFromTable.AssemblyInfo.cs
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Projects\RestaurantFromTable\obj\Debug\net6.0-windows\RestaurantFromTable.csproj.CoreCompileInputs.cache

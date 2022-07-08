@@ -1,0 +1,64 @@
+using Luca.Base.Classes;
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Luca.Forms
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+            DataTable dtMenuItems = GlobalVariables.GetProjectDataTable("SELECT * FROM Claimant");
+
+            int yCoord = 0;
+            int counter = 0;
+            foreach (DataRow row in dtMenuItems.Rows)
+            {
+                yCoord += 50;
+                TextBox tb = new TextBox()
+                {
+                    Tag = row,
+                    Name = row["Name1"].ToString(),
+                    Location = new Point(10, yCoord),
+                    Width = 200
+                };
+
+                tb.TextChanged += AllTextBoxes_TextChanged;
+                tb.KeyPress += TextBoxt_KeyPress;
+
+                Controls.Add(tb);
+
+                counter++;
+                if (counter == 10) return;
+            }
+
+
+        }
+
+
+
+        private void AllTextBoxes_TextChanged(object sender, EventArgs e)
+        {
+
+            Control whichCtrl = (Control)sender;
+            DataRow row = (DataRow)whichCtrl.Tag;
+        }
+
+        private void TextBoxt_KeyPress(object sender, KeyPressEventArgs e)
+        {
+
+            if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar) && (e.KeyChar != '.') && (e.KeyChar != '-') && (e.KeyChar != '/'))
+            {
+                e.Handled = true;
+            }
+        }
+    }
+}

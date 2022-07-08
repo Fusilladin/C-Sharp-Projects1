@@ -1,0 +1,17 @@
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Projects\RestaurantFromTable1\bin\Debug\net6.0-windows\RestaurantFromTable1.exe
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Projects\RestaurantFromTable1\bin\Debug\net6.0-windows\RestaurantFromTable1.deps.json
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Projects\RestaurantFromTable1\bin\Debug\net6.0-windows\RestaurantFromTable1.runtimeconfig.json
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Projects\RestaurantFromTable1\bin\Debug\net6.0-windows\RestaurantFromTable1.dll
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Projects\RestaurantFromTable1\bin\Debug\net6.0-windows\RestaurantFromTable1.pdb
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Projects\RestaurantFromTable1\obj\Debug\net6.0-windows\RestaurantFromTable1.csproj.AssemblyReference.cache
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Projects\RestaurantFromTable1\obj\Debug\net6.0-windows\RestaurantFromTable1.Form1.resources
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Projects\RestaurantFromTable1\obj\Debug\net6.0-windows\RestaurantFromTable1.csproj.GenerateResource.cache
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Projects\RestaurantFromTable1\obj\Debug\net6.0-windows\RestaurantFromTable1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Projects\RestaurantFromTable1\obj\Debug\net6.0-windows\RestaurantFromTable1.AssemblyInfoInputs.cache
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Projects\RestaurantFromTable1\obj\Debug\net6.0-windows\RestaurantFromTable1.AssemblyInfo.cs
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Projects\RestaurantFromTable1\obj\Debug\net6.0-windows\RestaurantFromTable1.csproj.CoreCompileInputs.cache
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Projects\RestaurantFromTable1\obj\Debug\net6.0-windows\RestaurantFromTable1.dll
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Projects\RestaurantFromTable1\obj\Debug\net6.0-windows\refint\RestaurantFromTable1.dll
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Projects\RestaurantFromTable1\obj\Debug\net6.0-windows\RestaurantFromTable1.pdb
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Projects\RestaurantFromTable1\obj\Debug\net6.0-windows\RestaurantFromTable1.genruntimeconfig.cache
+C:\Users\jgodin\Pictures\AB Data\Templates\Studying\C#\Projects\RestaurantFromTable1\obj\Debug\net6.0-windows\ref\RestaurantFromTable1.dll
